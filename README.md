@@ -25,5 +25,13 @@ As undegratea and aspiring junior backend python engineer , this project highlig
 -Use of class-based views for efficiency
 -Basic database modelling and migration
 
- Rea
- -
+ Start from scratch:
+ 1Create your directory /folder of your choice ,
+   on the terminal add[mk dir "directory'name of your choice"] 
+   change the file path on which the directory you want everything to be in ,on the terminal add[cd "directory_name"]
+   
+2.Create a vitural environment for your workspace
+ on the terminal add [python -m venv "any name for the vitural environment"] eg[python -m venv mk]
+ after this the vitural environment is attached to the file path of the directory and where incoming activities
+   
+   
